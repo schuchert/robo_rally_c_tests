@@ -118,22 +118,22 @@
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="robo_rally_c_tests.cdt.managedbuild.target.macosx.exe.503459349" name="Executable" projectType="cdt.managedbuild.target.macosx.exe"/>
 	</storageModule>
+	<storageModule moduleId="refreshScope" versionNumber="1">
+		<resource resourceType="PROJECT" workspacePath="/robo_rally_c_tests"/>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.macosx.exe.release.1243916245;cdt.managedbuild.config.macosx.exe.release.1243916245.;cdt.managedbuild.tool.gnu.cpp.compiler.macosx.exe.release.124497652;cdt.managedbuild.tool.gnu.cpp.compiler.input.764947401">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
 		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.macosx.exe.debug.1048069555;cdt.managedbuild.config.gnu.macosx.exe.debug.1048069555.;cdt.managedbuild.tool.gnu.cpp.compiler.macosx.exe.debug.1893901134;cdt.managedbuild.tool.gnu.cpp.compiler.input.1859938127">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.make.core.GCCStandardMakePerFileProfile"/>
 		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.macosx.exe.release.1243916245;cdt.managedbuild.config.macosx.exe.release.1243916245.;cdt.managedbuild.tool.gnu.c.compiler.macosx.exe.release.2139822687;cdt.managedbuild.tool.gnu.c.compiler.input.503269393">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
 		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.macosx.exe.debug.1048069555;cdt.managedbuild.config.gnu.macosx.exe.debug.1048069555.;cdt.managedbuild.tool.gnu.c.compiler.macosx.exe.debug.1346759226;cdt.managedbuild.tool.gnu.c.compiler.input.2062590679">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.make.core.GCCStandardMakePerFileProfile"/>
 		</scannerConfigBuildInfo>
-	</storageModule>
-	<storageModule moduleId="refreshScope" versionNumber="1">
-		<resource resourceType="PROJECT" workspacePath="/robo_rally_c_tests"/>
 	</storageModule>
 </cproject>
